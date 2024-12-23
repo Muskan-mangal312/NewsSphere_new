@@ -1,5 +1,5 @@
- API_KEY = "527a0c3833944d3fb9693ce793c86d15";
-const url = "https://newsapi.org/v2/everything?q=";
+const API_KEY = "527a0c3833944d3fb9693ce793c86d15";
+ url = "https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => {
     // Initially show the login page
