@@ -1,0 +1,12 @@
+{
+  "name": "news-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
