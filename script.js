@@ -1,5 +1,6 @@
+const PROXY_URL = "https://cors-anywhere.herokuapp.com/";
 const API_KEY = "527a0c3833944d3fb9693ce793c86d15";
- url = "https://newsapi.org/v2/everything?q=";
+const url = `${PROXY_URL}https://newsapi.org/v2/everything?q=`;
 
 window.addEventListener("load", () => {
     // Initially show the login page
